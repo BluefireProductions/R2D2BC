@@ -1,0 +1,18 @@
+{
+  "name": "treeline-r2d2bc",
+  "author": "dev@abovethetreeline.com",
+  "version": "1.9.0",
+  "description": "A viewer application for EPUB files.",
+  "main": "./index.js",
+  "peerDependencies": {
+    "browserslist-useragent-regexp": "^3.0.0",
+    "cssesc": "^3.0.0",
+    "debounce": "^1.2.1",
+    "devtools-detector": "^2.0.3",
+    "jscrypto": "0.0.1",
+    "materialize-css": "^1.0.0",
+    "r2-shared-js": "^1.0.51",
+    "sanitize-html": "^2.3.3",
+    "ts-optchain": "^0.1.8"
+  }
+}
